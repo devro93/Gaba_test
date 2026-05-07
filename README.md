@@ -30,6 +30,10 @@ A responsive users dashboard with:
   - top department in current result set
 - Responsive card layout for desktop/tablet/mobile
 
+## Screenshot
+
+![Users Dashboard](./screenshot.png)
+
 ## Why I did it this way
 
 I chose React + TypeScript because this stack is productive for assignment scope while still showing structure and correctness:
